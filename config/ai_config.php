@@ -2,7 +2,7 @@
 // Google Gemini AI Configuration
 // Get your free API key from: https://makersuite.google.com/app/apikey
 
-define('GEMINI_API_KEY', 'AIzaSyB616iTBjBeRz_aOFCnlmEZ2Isk-cniSL4'); 
+define('GEMINI_API_KEY', 'ADD_YOUR_API_KEY'); // add yout api key here
 define('GEMINI_API_URL', 'https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent');
 
 // AI Helper Functions
